@@ -3,7 +3,7 @@
 Exemplos de uso de um readme:
 # Título
 ## Subtítulo
-### Subsubtítulos
+### Subsubtítulo
 
 [Exemplo de link(https://github.com)]
 
